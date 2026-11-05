@@ -1,0 +1,3 @@
+# Subdomain LLM Context
+User-agent: *
+Allow: /
