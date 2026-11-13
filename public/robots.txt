@@ -1,7 +1,6 @@
 User-agent: *
-Crawl-delay: 1
+Allow: /
+Disallow: /subdomain-secret-cart/
+Crawl-delay: 5
 
 Sitemap: http://localhost:5000/sitemap.xml
-
-# GEO guidance
-# Authoritative brand information is available at /llms.txt

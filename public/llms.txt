@@ -1,3 +1,7 @@
-# Subdomain LLM Context
-User-agent: *
-Allow: /
+# Subdomain Store Knowledge Base (localhost:5000)
+> Customer shopping portal, product catalogue, and order tracking.
+
+## Store Sections
+- /shop: Featured products and discounts
+- /cart: Customer checkout basket
+- /tracking: Order status and live delivery tracking
